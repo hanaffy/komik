@@ -1,0 +1,55 @@
+.feedback-wrapper {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.feedback-for{
+    color: aliceblue;
+    padding: 10px;
+    border-bottom: 1px solid rgb(76, 77, 78);
+    margin-bottom: 12px;
+}
+
+.feedback-review-total {
+    color: aliceblue;
+    text-align: center;
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-bottom: 20px;
+}
+
+.feedback-review-emotion {
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 3rem;
+    margin-bottom: 2rem;
+}
+
+.feedback-review-vote {
+    text-align: center;
+}
+
+.feedback-comment-total {
+    color: aliceblue;
+    display: flex;
+    text-align: center;
+    border-bottom: 2px solid aliceblue;
+    padding: 10px;
+}
+
+.feedback-margin-right {
+    margin-right: auto;
+}
+
+.feedback-review-emoji {
+    font-size: 2.2rem;
+}
+
+.feedback-emoji-p {
+    font-size: 14px;
+}

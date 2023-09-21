@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(26, 24, 24);
+}
+
+.navbar {
+    background-color: #000;
+    display: flex;
+    padding: 12px;
+    border-bottom: 1px solid #000;
+    margin-bottom: 3rem;
+}
+
+.navbar-home {
+    color: aliceblue;
+    margin-right: auto;
+    margin-left: 7rem;
+    cursor: pointer;
+}
+
+.navbar-list {
+    display: flex;
+    margin-right: 6rem;
+}
+
+.navbar-list-menu {
+    color: aliceblue;
+    margin-right: 2rem;
+    cursor: pointer;
+}
